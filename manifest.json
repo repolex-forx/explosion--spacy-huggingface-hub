@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "spacy-huggingface-hub",
+  "versions": [
+    {
+      "commit": "1e27b866ff8a92d5c9601fc2bf483b25a4f4ef15",
+      "parsed_at": "2026-10-28T11:33:19.703948+00:00",
+      "tag": "v0.0.10",
+      "filetree": "filetree/1e27b866ff8a92d5c9601fc2bf483b25a4f4ef15.nq.gz",
+      "blobs": [
+        "blob/2b1bb09818e08cf4923c4888a7187a68c2ca8c00.nq.gz",
+        "blob/3583a2b2eaea1e8357acaa1a6231273836992bc9.nq.gz",
+        "blob/038e0b5dea18f6be1c89c49e877a8d92ecb6863b.nq.gz",
+        "blob/913f4b7188b9e27a76ca88651a3f04ba065a15d5.nq.gz",
+        "blob/a4d7220f6ace584c148ca45f30093ac88155b2c3.nq.gz",
+        "blob/2518fcee855ef2ed499faceb947651a25ff800da.nq.gz",
+        "blob/c1a7121c1bd6c9648bc686c95b1c7a94dd69cdd3.nq.gz",
+        "blob/408ab542bc92e487bbe44b327080b4024a4cde2c.nq.gz",
+        "blob/30478fb55d22093f61fa91aaf4b163bd64b8cfbd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
