@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-huggingface-hub",
+  "versions": [
+    {
+      "commit": "1e27b866ff8a92d5c9601fc2bf483b25a4f4ef15",
+      "tag": "v0.0.10",
+      "parsed_at": "2026-10-28T11:36:05.022498+00:00"
+    }
+  ]
+}
