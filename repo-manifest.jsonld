@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-huggingface-hub/commit/1e27b866ff8a92d5c9601fc2bf483b25a4f4ef15",
       "git:hexsha": "1e27b866ff8a92d5c9601fc2bf483b25a4f4ef15",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.0.10"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.0.10",
+      "repolex:parsedAt": "2026-10-28T11:36:05.021984+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-huggingface-hub/commit/de1df6dc7162e29c313f512d8969528ad0befa0b",
